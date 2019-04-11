@@ -1,4 +1,4 @@
-for i in range(11):
+for i in range(10):
     print("Hello, Python!")
 #-----------------------------------------
 for x in range(10):
